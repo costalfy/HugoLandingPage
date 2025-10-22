@@ -19,10 +19,10 @@ socials:
     icon: "fab fa-telegram"
 
 # Link cards
-links:
-  - href: "https://t.me/costalfy"
-    icon: "fab fa-telegram"
-    title: "Contactez moi"
+#links:
+#  - href: "https://t.me/costalfy"
+#    icon: "fab fa-telegram"
+#    title: "Contactez moi"
 #    description: "Check out my portfolio"
 #  - href: "https://blog.your.site"
 #    icon: "fas fa-blog"
