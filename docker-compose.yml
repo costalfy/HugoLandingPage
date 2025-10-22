@@ -1,0 +1,13 @@
+services:
+  andy:
+    image: ghcr.io/costalfy/hugolandingpage:main
+    ports:
+      - 8080:80
+    restart: always
+    container_name: andy_costanzamainas_be
+    networks:
+      - web
+      - default
+networks:
+  web:
+    external: true
