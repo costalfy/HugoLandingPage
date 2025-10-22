@@ -1,0 +1,12 @@
+baseURL = 'https://andy.costanzamainas.be/'
+languageCode = 'fr-be'
+title = 'Andy Costanza'
+theme = "LucentLink-Hugo"
+minVersion = "0.115.0"
+
+[params]
+description     = "Andy Costanza"
+googleAnalytics = ""    # your GA ID, if any
+
+[outputs]
+home = ["HTML"]
