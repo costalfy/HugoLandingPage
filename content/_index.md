@@ -67,11 +67,11 @@ about:
   title: "À propos de moi"
   sections:
     - heading: "Parcours professionnel"
-      content: "Développeur Java depuis 2001, j'ai conçu et maintenu principalement des applications Web en Java en m'appuyant sur les frameworks Struts, Hibernate et Spring Boot. J'ai travaillé sur différents serveurs d'applications tels que WebSphere, JBoss et Apache Tomcat, et interagi avec de multiples bases de données comme IBM DB2, Oracle, PostgreSQL et MySQL."
+      content: "Développeur Java depuis 2001, je conçois, développe et maintiens principalement des applications web basées sur l’écosystème Java. Au fil de mes missions, j’ai travaillé avec des frameworks tels que Struts, Hibernate et Spring Boot, et déployé des applications sur différents serveurs d’applications comme WebSphere, JBoss et Apache Tomcat. J’ai également une solide expérience de l’intégration avec plusieurs systèmes de gestion de bases de données, notamment IBM DB2, Oracle, PostgreSQL et MySQL."
     - heading: ""
-      content: "Autodidacte et passionné, j'aime explorer et mettre en place de nouveaux outils pour améliorer à la fois mon expérience de développement et celle de mes collègues. Polyvalent, je suis à l'aise autant sur le frontend que sur le backend, et j'assure la maintenance opérationnelle des applications, notamment en garantissant leur observabilité."
+      content: "Autodidacte et passionné par mon métier, je m’intéresse en permanence aux nouveaux outils et aux bonnes pratiques permettant d’améliorer la qualité du développement et l’efficacité des équipes. Polyvalent, j’interviens aussi bien sur les problématiques backend que frontend, et je contribue à la maintenance opérationnelle des applications, notamment à travers la mise en place de solutions d’observabilité et de supervision."
     - heading: ""
-      content: "Enfin, je m'attache à promouvoir la culture DevOps dans chacun des environnements où j'ai eu la chance d'évoluer au cours de ces dernières années."  
+      content: "Enfin, je m’attache à promouvoir et à diffuser une culture DevOps, en favorisant la collaboration entre les équipes, l’automatisation des processus et l’amélioration continue des environnements de développement et de production."  
      
 ## Messaging Etiquette. You can add new rules as per your needs.
 messaging:
